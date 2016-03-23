@@ -1,0 +1,24 @@
+body {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background: none;
+    color: #ffffff;
+}
+.full {
+    background: url(../img/sun.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+a {
+    color: #ffffff;
+}
+a:hover {
+    text-decoration: none;
+    cursor: crosshair;
+}
+.navbar h1 {
+    color: #ffffff;
+}
+
