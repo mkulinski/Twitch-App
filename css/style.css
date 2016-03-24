@@ -5,7 +5,7 @@ body {
     color: #ffffff;
 }
 .full {
-    background: url(../img/sun.jpg) no-repeat center center fixed;
+    background: url(http://protiumdesign.com/wp-content/uploads/2015/01/Flat-Code-Icon-1024.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -18,7 +18,31 @@ a:hover {
     text-decoration: none;
     cursor: crosshair;
 }
+ul {
+    list-style: none;
+}
 .navbar h1 {
+    color: #9d9d9d;
+}
+.showBox {
     color: #ffffff;
+}
+.streamerList img {
+    width: 100px;
+    height: 90px;
+}
+.streamerList li {
+    padding: 15px;
+    margin: 15px;
+    background-color: #9d9d9d;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+.streamerList p {
+    display: inline-block;
+}
+.channelName {
+    margin: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
 }
 
